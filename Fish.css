@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(115, 200, 228);
+
+}
+.samaki{
+    font-size: 15px;
+    background-color:rgb(248, 172, 31);
+    color: rgb(43, 58, 141);
+        
+}
+h1 {
+    border-style: solid;
+    border-width: 3px;
+    color:rgb(38, 81, 131);
+}
+
+p {
+    border-style: solid;
+    border-width:small;
+    text-align: center;
+    margin-top: 100px;
+}
+.jamaa{
+    font-size: 1cm;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: #ee6281
+}
+.jamaa:hover {
+    background-color: #4CAF50; 
+    color: white;
+    cursor: pointer;
+  }
